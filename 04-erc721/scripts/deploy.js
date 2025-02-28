@@ -2,7 +2,7 @@
 const hre = require("hardhat");
 
 async function main() {
-  const contract = await hre.ethers.deployContract("Guicoin");
+  const contract = await hre.ethers.deployContract("Creamsilk");
 
   await contract.waitForDeployment();
 

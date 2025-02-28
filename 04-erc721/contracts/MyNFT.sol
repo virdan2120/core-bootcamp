@@ -6,10 +6,10 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract Guicoin is ERC721URIStorage {
+contract Creamsilk is ERC721URIStorage {
     uint256 tokenId;
 
-    constructor() ERC721("Guicoin", "GUIC") {}
+    constructor() ERC721("Creamsilk", "CRMSLK") {}
 
     function mint() external {
          _safeMint(msg.sender, tokenId);

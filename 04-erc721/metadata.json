@@ -1,12 +1,12 @@
 {
-    "name": "GUICOIN",
-    "description": "AmbatuGuic",
-    "symbol": "GUIC",
-    "image": "https://i.imgur.com/vHDsMRv.jpeg",
+    "name": "Creamsilk",
+    "description": "Ambatumond",
+    "symbol": "CRMSLK",
+    "image": "https://i.imgur.com/40sz9wS.jpeg",
     "attributes": [
         {
             "trait_type": "event",
-            "value": "AmbatuGuic"
+            "value": "Ambatumond"
         },
         {
             "trait_type": "year",
